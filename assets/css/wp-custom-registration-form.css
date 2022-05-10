@@ -1,0 +1,25 @@
+/******************************************************************************************/
+
+
+/* Style front end custom registration form                                               */
+
+
+/******************************************************************************************/
+
+.wp_custom_reg_form_error {
+    display: none;
+    font-size: 1.4rem;
+    color: red;
+    font-weight: 600;
+}
+
+.wp_custom_reg_form_help_text {
+    font-size: 1.3rem;
+    margin-top: 10px;
+    display: block;
+}
+
+.wp_custom_reg_form_wait_msg {
+    display: none;
+    font-size: 1.4rem;
+}
